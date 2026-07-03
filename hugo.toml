@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://elliot-plum.vercel.app/'
 languageCode = 'hu'
 title = 'Mycelium Relay'
 theme = 'risotto'
